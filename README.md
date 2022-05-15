@@ -1,1 +1,5 @@
 # hcde-410-final
+
+**Project Overview**
+
+This project analyzes abortion rates and contraceptives used nationwide in 2017. The goal is to see how abortion rates vary in America and if access to contraceptives impacts abortion rates. The current research questions are "Does the rate of use of contraceptives affect rates of abortion in specific states?" and "Does the rate of abortion vary based on the region of the US a state is in?". There is background information regarding the rates of abortion across the United States, access to contraceptives by state, individual state laws concerning abortion, and many articles about the correlation between access to women's healthcare and the impacts on abortion rates. The research questions will be addressed using the [Guttmacher data](https://data.guttmacher.org/states/table?state=AL+AK+AZ+AR+CA+CO+CT+DE+DC+FL+GA+HI+ID+IL+IN+IA+KS+KY+LA+ME+MD+MA+MI+MN+MS+MO+MT+NE+NV+NH+NJ+NM+NY+NC+ND+OH+OK+OR+PA+RI+SC+SD+TN+TX+UT+VT+VA+WA+WV+WI+WY&topics=65+282&dataset=data) and charts, Ordinary Least Squares regression (OLS), and possibly a geographically marked map to convey the data if time permits.
